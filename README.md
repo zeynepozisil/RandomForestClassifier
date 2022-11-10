@@ -1,4 +1,4 @@
-# RandomForestClassifier
+# Random Forest Classifier 🌳🌴🌲
 ![Screenshot](1.png)
 
 ### Bu çalışma standart bir veri bilimi projesinin en basit hali olarak düşünülebilir.
